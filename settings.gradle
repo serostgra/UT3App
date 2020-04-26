@@ -1,0 +1,2 @@
+rootProject.name='UT3App'
+include ':app'
